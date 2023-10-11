@@ -31,28 +31,34 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Building a React Native App with Firebase Authentication",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A tutorial on how to build a React Native app with Firebase Authentication to handle user authentication and authorization.",
+    url: "https://dev.to/myusername/building-a-react-native-app-with-firebase-authentication-1234",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Creating a RESTful API with Node.js and Express",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A step-by-step guide on how to create a RESTful API using Node.js and Express, including CRUD operations and error handling.",
+    url: "https://dev.to/myusername/creating-a-restful-api-with-node-js-and-express-5678",
   },
   {
-    title: "My Resume Site",
+    title: "Introduction to Machine Learning with Python",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "An overview of machine learning concepts and techniques, with practical examples using Python and popular libraries like scikit-learn.",
+    url: "https://dev.to/myusername/introduction-to-machine-learning-with-python-9012",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Building a Full-Stack Web App with React and Node.js",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A tutorial on how to build a full-stack web app using React for the front-end and Node.js for the back-end, with a PostgreSQL database.",
+    url: "https://dev.to/myusername/building-a-full-stack-web-app-with-react-and-node-js-3456",
+  },
+  {
+    title: "Getting Started with TypeScript",
+    description:
+      "An introduction to TypeScript, including its benefits, syntax, and how to integrate it into a JavaScript project.",
+    url: "https://dev.to/myusername/getting-started-with-typescript-7890",
   },
 ];
 
